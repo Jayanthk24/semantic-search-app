@@ -8,4 +8,4 @@ ENV FLASK_ENV production
  
 EXPOSE 3000
  
-CMD ["python", "-u", "FlaskEndpoint.py"]
+CMD ["python", "-u", "Flask-API-Endpoint.py"]
