@@ -9,9 +9,7 @@ from Database import query_pinecone_index, index
 # Load the environment variables
 database = "Pinecone"
 
-# project_id=os.getenv('WATSON_PROJECT_ID')
-# endpoint_url=os.getenv('WML_URL')
-# api_key=os.getenv('API_KEY')
+
 project_id="5bd23f2e-c88b-42f9-b4f1-f944ac855038"
 endpoint_url="https://us-south.ml.cloud.ibm.com"
 api_key="izlDY51M0CoWm3W382XRBrXAJYKsCql4QTBTDTZYmQ"
