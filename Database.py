@@ -1,13 +1,7 @@
 import pinecone
 import os
-# from dotenv import load_dotenv
-from pinecone import Pinecone
 
-# load_dotenv()
-# base_filepath = os.getenv('BASE_FILEPATH')
-# pinecone_key= os.getenv('PINECONE_API_KEY')
-# pinecone_env= os.getenv('PINECONE_ENV')
-# pinecone_index_name= os.getenv('PINECONE_INDEX_NAME')
+from pinecone import Pinecone
 
 base_filepath = "C:\\Users\\jayanth.kappala\\Downloads\\Semantic_Search_Accelerator-main\\Semantic_Search_Accelerator-main\\"
 pinecone_key= "2760a8de-3581-47d2-a823-83624abb563d"
