@@ -1,4 +1,5 @@
 pinecone-client
+Flask
 langchain
 transformers
 huggingface-hub
