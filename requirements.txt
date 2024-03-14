@@ -1,11 +1,6 @@
 pinecone-client
 Flask
 langchain
-pypdf
-sentence-transformers
 requests
-unstructured
-urllib3
-docx2txt
+uuid
 ibm-cloud-sdk-core
-
