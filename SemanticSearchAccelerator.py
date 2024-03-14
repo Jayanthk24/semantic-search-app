@@ -1,5 +1,4 @@
 from ibm_cloud_sdk_core import IAMTokenManager
-import requests
 from uuid import uuid4
 from langchain.embeddings.sentence_transformer import SentenceTransformerEmbeddings
 import requests
